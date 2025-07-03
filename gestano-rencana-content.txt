@@ -1,0 +1,6 @@
+RENCANA KONTEN GESTANO
+
+- Javascript
+- PHP Framework
+- Interview
+- Vlogs
